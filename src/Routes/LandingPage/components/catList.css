@@ -1,3 +1,12 @@
 .padding {
     padding: 20px;
 }
+
+.list-cat {
+    cursor: pointer;
+}
+
+.list-cat:hover {
+    background-color: #5038bc;
+    color: white;
+}
